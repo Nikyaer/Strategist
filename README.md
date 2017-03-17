@@ -1,4 +1,8 @@
 # Strategist
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Please view project here as it is too big for github: https://drive.google.com/open?id=0B-rgp-CLlscVLVUxUmwwbkNUVlk
+
+
 # This project is finished. Currently available to the public is the *Alpha v0.07.014a* as of 02/27/2017
 ## Please download the "Strategist.exe" to play the alpha.
 ### Versions available:
